@@ -1,0 +1,13 @@
+# Ignore virtual environment
+../venvs/fragranceHive/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
+
+# Optional: ignore SQLite database if using
+db.sqlite3
+
